@@ -40,3 +40,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 43,0,secure.indeed.com,1,1604442787,1604442787,"Added from Query Log"
 44,0,tinyurl.com,1,1607648776,1607648776,"Added from Query Log"
 45,2,(\.|^)cam4\.com$,1,1607735979,1607735979,Cam4
+46,0,telemetry.api.2kcoretech.online,1,1609526205,1609526205,"Added from Query Log"
